@@ -1,4 +1,4 @@
-Aarcade game - [Play](http://mohammed88.github.io/p3/)
+Arcade game - [Play](http://mohammed88.github.io/p3/)
 ============
 
 INSTRUCTIONS
